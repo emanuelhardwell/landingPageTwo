@@ -1,0 +1,14 @@
+/* 
+
+*/
+body {
+  background: radial-gradient(rgb(78, 68, 68), rgb(48, 45, 45));
+  min-height: 100vh;
+  font-family: "Open Sans", sans-serif;
+  color: #fff;
+}
+
+.testimonio {
+  background: rgb(32, 31, 31);
+  /* width: 100%; */
+}
